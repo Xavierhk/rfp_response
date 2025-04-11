@@ -47,9 +47,13 @@ The script will:
 ## File Structure
 
 rfp_response/
+
 ├── export2.py # Main script for table extraction
+
 ├── questions.docx # Input Word document (your RFP document)
+
 ├── requirements.txt # Project dependencies
+
 └── README.md # This file
 
 ## Contributing
